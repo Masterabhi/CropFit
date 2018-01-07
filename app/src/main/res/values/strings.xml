@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CropFit</string>
+
+    <string-array name="district">
+        <item>AMBALA</item>
+        <item>YAMUNA NAGAR</item>
+        <item>KURUKSEHTRA</item>
+        <item>KAITHAL</item>
+        <item>KARNAL</item>
+        <item>PANIPAT</item>
+        <item>SONIPAT</item>
+        <item>ROHTAK</item>
+        <item>FARIDABAD</item>
+        <item>GURUGRAM</item>
+        <item>REWARI</item>
+        <item>MAHENDRAGARH</item>
+        <item>BHIWANI</item>
+        <item>JIND</item>
+        <item>HISAR</item>
+        <item>SIRSA</item>
+    </string-array>
+</resources>
